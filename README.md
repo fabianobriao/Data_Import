@@ -1,3 +1,2 @@
 # Data_Import
-Repositório de exemplos de importação de dados
-adasdfsddd
+Este repositoŕio é exclusivo para mostrar importações de dados através de diversos tipos de arquivos existentes em várias bases de dados. Ressalto que neste repositório é dedicado para a prepaparação e limpeza dos dos dados, esse tipo de ação é apresentada no repositório Data_Scrubbing.
